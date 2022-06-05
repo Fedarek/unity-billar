@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637900482765426854
-    m_Hash: 2828306746
+      ticks: 637900542102357546
+    m_Hash: 868221790
   m_LockFileStatus:
     m_FilePath: C:/Users/feder/Billar/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637900482765476898
-    m_Hash: 2223498469
+      ticks: 637900542102367557
+    m_Hash: 2262643935
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
